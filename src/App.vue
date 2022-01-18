@@ -75,6 +75,7 @@ export default {
 
 body {
   font-family: 'Montserrat', sans-serif;
+  background-color: black;
 }
 
 #app {
@@ -82,6 +83,9 @@ body {
   background-size: cover;
   background-position: bottom;
   transition: 0.4s;
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #app.warm {
