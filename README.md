@@ -7,7 +7,7 @@
 This is project to check Weather in Vue using OpenWeatherMap API
 https://openweathermap.org/
 
-## Image
+## Image :image:
 ![vw1](https://user-images.githubusercontent.com/52220244/149944092-a637ef51-8641-49b9-ab9e-b6c6baf658c4.JPG)
 
 ![vw2](https://user-images.githubusercontent.com/52220244/149944099-ce7988c4-7e23-4bcd-815f-ee33b2daea04.JPG)
