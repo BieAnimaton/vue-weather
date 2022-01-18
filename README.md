@@ -1,7 +1,6 @@
 # Vue Weather App
 
-## Original project by Tyler Potts, on "Build a Weather App in VueJS | Vue Beginner Tutorial
-" (link below) :point_up:
+## Original project by Tyler Potts, on "Build a Weather App in VueJS | Vue Beginner Tutorial" (link below) :point_up:
 - https://www.youtube.com/watch?v=JLc-hWsPTUY
 
 This is project to check Weather in Vue using OpenWeatherMap API
